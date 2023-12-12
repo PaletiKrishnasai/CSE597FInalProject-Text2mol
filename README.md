@@ -1,1 +1,1 @@
-# CSE597FInalProject-Text2mol
+# CSE597FinalProject-Text2mol
