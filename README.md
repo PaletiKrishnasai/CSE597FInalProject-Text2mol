@@ -1,11 +1,11 @@
 # CSE597FinalProject-Text2mol
 
-Name: Krishnasai Paleti
-PSU mail: kxp5619@psu.edu
+Name: Krishnasai Paleti <br />
+PSU mail: kxp5619@psu.edu <br />
 
-This is the final submission code base for the "CSE597 - Vision and Language" course.
+This is the final submission code base for the "CSE597 - Vision and Language" course. <br />
 
-NOTE: Running this code base is expensive and colab pro or colab pro+ is needed. A100 GPU is preffered as the runs take approximately 5-6 hours per notebook.
+NOTE: Running this code base is expensive and colab pro or colab pro+ is needed. A100 GPU is preffered as the runs take approximately 5-6 hours per notebook. <br />
 
 Instructions:
 - Download the data from the parent repo https://github.com/cnedwards/text2mol/tree/master/data
